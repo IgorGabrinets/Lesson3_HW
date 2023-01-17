@@ -6,12 +6,12 @@ ul{
     /* list-style-image: none; если type то none */
 }
 
-table, tr,th,td{
+table{
     border: 1px solid black;
 }
-table{
+/* table{
     border-collapse: collapse;
-}
+} */
 /* tr{
     border: 1px solid black;
     
