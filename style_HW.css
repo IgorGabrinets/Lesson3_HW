@@ -1,0 +1,21 @@
+ul{
+    list-style: lower-latin outside none;
+    /* list-style-type: none;   /* если есть картинка то none */
+    /* list-style-position: outside; */
+    /* list-style-image: none; если type то none */
+}
+
+table, tr,th,td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+
+}
+/* tr{
+    border: 1px solid black;
+    
+}
+th{
+    background-color: rgb(114, 114, 121);
+} */
