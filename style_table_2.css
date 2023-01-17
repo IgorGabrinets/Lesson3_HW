@@ -6,14 +6,26 @@ ul{
     /* list-style-image: none; если type то none */
 }
 
-table{
+table, tr,th,td{
     border: 1px solid black;
 }
-/* table{
+table{
     border-collapse: collapse;
-} */
-/* tr{
-    border: 1px solid black;
-    
+}
 
-th {background: #C9E3FE}
+tr:nth-child(1){background:#2b1cff}
+tr:nth-child(2){background:#911cff}
+tr:nth-child(3){background:#8f67b4}
+tr:nth-child(4){background:#ffd0fd}
+tr:nth-child(5){background:#2b1cff}
+tr:nth-child(6){background:#911cff}
+tr:nth-child(7){background:#8f67b4}
+tr:nth-child(8){background:#ffd0fd}
+tr:nth-child(9){background:#2b1cff}
+tr:nth-child(10){background:#911cff}
+tr:nth-child(11){background:#8f67b4}
+tr:nth-child(12){background:#ffd0fd}
+tr:nth-child(13){background:#2b1cff}
+tr:nth-child(14){background:#911cff}
+tr:nth-child(15){background:#8f67b4}
+tr:nth-child(16){background:#ffd0fd}

@@ -1,19 +1,14 @@
-ul{
-    list-style: lower-latin outside none;
-    /* list-style-type: none;   /* если есть картинка то none */
+table{
+    border: 1px solid rgb(233, 139, 139);
     
-    /* list-style-position: outside; */
-    /* list-style-image: none; если type то none */
-}
-
-table, tr,th,td{
-    border: 1px solid black;
 }
 table{
     border-collapse: collapse;
-}
-/* tr{
-    border: 1px solid black;
     
+}
+td, th{
+    border: 1px dotted rgb(233, 139, 139);
+    padding: 15px;
+}    
 
-th {background: #C9E3FE}
+th {background: #ffae01}
